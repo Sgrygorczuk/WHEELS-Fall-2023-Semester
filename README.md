@@ -22,13 +22,12 @@ Covering the different roles that exist in the game development industry, starti
 * [Lesson 1]()
 * [Lesson 2]()
 * [Project Files]()
-* [Project Files Completed]()
 
 - - - -
 
 
 ## Week 2: 2D Games and User Interface ##
-Students will learn about the 2D capabitles of Unity by creating their levels while learning about UI. 
+Students will learn about the 2D capabitles of Unity by creating their levels while learning about aduio. 
 
 * [Lesson 3]()
 * [Lesson 4]()
@@ -36,7 +35,7 @@ Students will learn about the 2D capabitles of Unity by creating their levels wh
 - - - -
 
 ## Week 3: Project Completion ##
-The students will learn how to polish up our game by adding animations, lighting, audio, and particle effect systems, and using it to finsh the project.
+The students will learn how to create UI and using it to finsh the project.
 
 * [Lesson 5]()
   
