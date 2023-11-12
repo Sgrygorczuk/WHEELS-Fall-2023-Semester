@@ -9,9 +9,9 @@ The class was broken down into three weeks where students undertake different to
 ## Syllabus & Install Instructions ##
 
 * [Syllabus]()
-* [GitHub Desktop]()
-* [Visual Studio]()
-* [Untity Hub & Unity Editor]()
+* [GitHub Desktop](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20GitHub%20Desktp.pdf)
+* [Visual Studio](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20Visual%20Studio.pdf)
+* [Untity Hub & Unity Editor](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Install%20Instructions/Installing%20Unity.pdf)
 * [How To Use GitHub Desktop](https://www.youtube.com/watch?v=4HPUHxDMT2c)
 
 - - - -
@@ -19,9 +19,9 @@ The class was broken down into three weeks where students undertake different to
 ## Week 1: Introductions to Game Development  ##
 Covering the different roles that exist in the game development industry, starting conversation on what games they were intending on creating and exploring the Unity software.
 
-* [Lesson 1]()
-* [Lesson 2]()
-* [Project Files]()
+* [Project Files](https://github.com/Sgrygorczuk/Lab_Pixel_Quest)
+* [Lesson 1](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Week%201/Lesson%201%20-%20Intro%20and%20Unity.pdf)
+* [Lesson 2](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Week%201/Lesson%202%20-%202D%20Games.pdf)
 
 - - - -
 
@@ -29,14 +29,15 @@ Covering the different roles that exist in the game development industry, starti
 ## Week 2: 2D Games and User Interface ##
 Students will learn about the 2D capabitles of Unity by creating their levels while learning about aduio. 
 
-* [Lesson 3]()
-* [Lesson 4]()
+* [Lesson 3](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Week%202/Day%203%20-%20Programming.pdf)
+* [Lesson 4](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Week%202/Day%204%20-%20Animation%2C%20Audio%20and%20Lighting.pdf)
 
 - - - -
 
 ## Week 3: Project Completion ##
 The students will learn how to create UI and using it to finsh the project.
 
-* [Lesson 5]()
+* [Lesson 5](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Week%203/Day%205%20-%20UI.pdf)
+* [Lesson 6](https://github.com/Sgrygorczuk/WHEELS-Fall-2023-Semester/blob/main/Week%203/Day%206%20-%20How%20to%20Further%20Your%20Skills.pdf)
   
 - - - -
